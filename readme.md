@@ -1,3 +1,1 @@
- <p>Tantangan yang telah saya hadapi berkaitan dengan praktik praktik yang kurang faham, dan alterrnatiifnya yaitu meminta kepada mentor untuk di jelaskan lebih pelan pelan lagi. Dan alternatif lainnya yaitu dengan menonton ulang hasil record kelas yang sudah diimasukkan ke dalam google drive serta mencobanya sendirii dari berbagai platform seperti yutub dan lainnya. </p>
-
- <p>Perkembangan yang telah saya dapat dapatkan berkaitan dengan materi materii yang sudah di dapat yaitu seperti penggunaan github, yaitu mengupload file ke github menggunakan command prompt (CMD). Yang sebelumnya saya belum pernah coba dengan hall itu, selanjutnya berkaitan dengan materi “Pentnignya keamanan online”, darii materi ini kiita dapat paham tentang apa saja ancaman ancaman dalam dunia online dan tips tips untuk menjaga keamanan online, seperti menggunakan pasword yang kuat yaitu dengan menggunakan karakter unik seperti penggunaan huruf besar dan huruf kecil. </p>
+Hello
